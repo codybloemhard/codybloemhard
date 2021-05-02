@@ -1,11 +1,12 @@
 ## Hi 🐸
 I like programming related to art.
-[codyb.xyz](codyb.xyz)
-[linkedin](https://www.linkedin.com/in/codybloemhard/)
-[cv](https://codyb.xyz/cv/cody-bloemhard-cv.pdf)
+- [codyb.xyz](codyb.xyz)
+- [linkedin](https://www.linkedin.com/in/codybloemhard/)
+- [cv](https://codyb.xyz/cv/cody-bloemhard-cv.pdf)
 
 ### Current Work
 My sideproject work is now focussed on audio-visual art.
+
 I am working on shaders and algorithmic music, and a daw.
 
 ### Works
