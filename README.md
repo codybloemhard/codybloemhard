@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 🐸
+I like programming related to art.
+[codyb.xyz](codyb.xyz)
+[linkedin](https://www.linkedin.com/in/codybloemhard/)
+[cv](https://codyb.xyz/cv/cody-bloemhard-cv.pdf)
 
-<!--
-**ocdy1001/ocdy1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Work
+My sideproject work is now focussed on audio-visual art.
+I am working on shaders and algorithmic music, and a daw.
 
-Here are some ideas to get you started:
+### Works
+- [Theøry Frøg](https://codyb.xyz/theory-frog.html): Music theory query engine
+- Many repos you can find on this profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**ocdy1001/ocdy1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
