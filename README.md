@@ -1,6 +1,6 @@
 ## Hi 🐸
 I like programming related to art.
-- [codyb.xyz](codyb.xyz)
+- [codyb.xyz](https://codyb.xyz)
 - [linkedin](https://www.linkedin.com/in/codybloemhard/)
 - [cv](https://codyb.xyz/cv/cody-bloemhard-cv.pdf)
 
