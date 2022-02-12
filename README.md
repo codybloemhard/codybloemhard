@@ -1,5 +1,7 @@
 ## Hi 🐸
 I like programming related to art.
+
+I support the philosophy, use and development of free and open source software.
 - [codyb.xyz](https://codyb.xyz)
 - [linkedin](https://www.linkedin.com/in/codybloemhard/)
 - [cv](https://codyb.xyz/cv/cody-bloemhard-cv.pdf)
@@ -7,7 +9,7 @@ I like programming related to art.
 ### Current Work
 My sideproject work is now focussed on audio-visual art.
 
-I am working on shaders and algorithmic music, and a daw.
+I am working on rendering and algorithmic music.
 
 ### Works
 - [Theøry Frøg](https://codyb.xyz/theory-frog.html): Music theory query engine
