@@ -11,7 +11,7 @@ I support the philosophy, use and development of free and open source software.
 
 <details><summary>Personal Setup</summary><p>
 
-- [https://github.com/codybloemhard/LinuxRice](https://github.com/codybloemhard/LinuxRice)
+- [https://github.com/codybloemhard/linux-rice](https://github.com/codybloemhard/linux-rice)
 - [https://github.com/codybloemhard/codybloemhard.github.io](https://github.com/codybloemhard/codybloemhard.github.io)
 - [https://github.com/codybloemhard/qmk-cody](https://github.com/codybloemhard/qmk-cody)
 - [https://github.com/codybloemhard/eliza](https://github.com/codybloemhard/eliza)
@@ -19,6 +19,12 @@ I support the philosophy, use and development of free and open source software.
 - [https://github.com/codybloemhard/dmenu-cody](https://github.com/codybloemhard/dmenu-cody)
 - [https://github.com/codybloemhard/shapebar](https://github.com/codybloemhard/shapebar)
 - [https://github.com/codybloemhard/penrose-cody](https://github.com/codybloemhard/penrose-cody)
+</p></details>
+
+<details><summary>Incodoc</summary><p>
+
+- [https://github.com/codybloemhard/incodoc](https://github.com/codybloemhard/incodoc)
+- [https://github.com/codybloemhard/md-to-incodoc](https://github.com/codybloemhard/md-to-incodoc)
 </p></details>
 
 <details><summary>Music and Audio</summary><p>
@@ -65,8 +71,6 @@ I support the philosophy, use and development of free and open source software.
 <p>
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=codybloemhard&count_private=true&show_icons=true&theme=gruvbox)
- 
-![commit stats](https://github-readme-streak-stats.herokuapp.com/?user=codybloemhard&theme=gruvbox)
  
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codybloemhard&layout=compact&theme=gruvbox&count_private=true&langs_count=10&exclude_repo=SFML_BezierCurves)
  
