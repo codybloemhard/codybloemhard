@@ -59,6 +59,8 @@ I support the philosophy, use and development of free and open source software.
 
 <details><summary>Contributions</summary><p>
 
+- [https://github.com/RyanBluth/term-table-rs/pull/17](https://github.com/RyanBluth/term-table-rs/pull/17)
+- [https://github.com/RyanBluth/term-table-rs/pull/16](https://github.com/RyanBluth/term-table-rs/pull/16)
 - [https://github.com/sminez/penrose/pull/307](https://github.com/sminez/penrose/pull/307)
 - [https://github.com/qhdwight/bevy_fps_controller/pull/23](https://github.com/qhdwight/bevy_fps_controller/pull/23)
 - [https://github.com/stanislav-tkach/os_info/pull/342](https://github.com/stanislav-tkach/os_info/pull/342)
