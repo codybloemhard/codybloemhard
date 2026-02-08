@@ -1,6 +1,7 @@
 ## Hi 🐸
 
 I support the philosophy, use and development of free and open source software.
+
 Everything (code, readme, etc) is written without the use of any LLMs.
 
 - [codyb.xyz](https://codyb.xyz)
@@ -20,7 +21,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/codybloemhard/dmenu-cody](https://github.com/codybloemhard/dmenu-cody)
 - [https://github.com/codybloemhard/shapebar](https://github.com/codybloemhard/shapebar)
 - [https://github.com/codybloemhard/penrose-cody](https://github.com/codybloemhard/penrose-cody)
-- 
+
 </p></details>
 
 <details><summary>Incodoc</summary><p>
@@ -29,7 +30,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/codybloemhard/md-to-incodoc](https://github.com/codybloemhard/md-to-incodoc)
 - [https://github.com/codybloemhard/incodoc-to-ansi](https://github.com/codybloemhard/incodoc-to-ansi)
 - [https://github.com/codybloemhard/incodoc-to-html](https://github.com/codybloemhard/incodoc-to-html)
-- 
+
 </p></details>
 
 <details><summary>Music and Audio</summary><p>
@@ -41,7 +42,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/codybloemhard/sampsyn](https://github.com/codybloemhard/sampsyn)
 - [https://github.com/codybloemhard/wavedit](https://github.com/codybloemhard/wavedit)
 - [https://github.com/codybloemhard/generalized-titles](https://github.com/codybloemhard/generalized-titles)
-- 
+
 </p></details>
 
 <details><summary>Graphics</summary><p>
@@ -50,7 +51,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/codybloemhard/clrays](https://github.com/codybloemhard/clrays)
 - [https://github.com/codybloemhard/frag](https://github.com/codybloemhard/frag)
 - [https://github.com/codybloemhard/UU_Raytracer](https://github.com/codybloemhard/UU_Raytracer)
-- 
+
 </p></details>
 
 <details><summary>Other</summary><p>
@@ -62,7 +63,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/codybloemhard/fp-pacman](https://github.com/codybloemhard/fp-pacman)
 - [https://github.com/codybloemhard/zen-colour](https://github.com/codybloemhard/zen-colour)
 - [https://github.com/codybloemhard/termpasshash](https://github.com/codybloemhard/termpasshash)
-- 
+
 </p></details>
 
 <details><summary>Contributions</summary><p>
@@ -75,7 +76,7 @@ Everything (code, readme, etc) is written without the use of any LLMs.
 - [https://github.com/monkeytypegame/monkeytype/pull/3108](https://github.com/monkeytypegame/monkeytype/pull/3108)
 - [https://github.com/monkeytypegame/monkeytype/pull/3104](https://github.com/monkeytypegame/monkeytype/pull/3104)
 - [https://github.com/starship/starship/pull/1903](https://github.com/starship/starship/pull/1903)
-- 
+
 </p></details>
 
 ### Stats
